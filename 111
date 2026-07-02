@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "初始化企业估值工具"
+git branch -M main
+git remote add origin https://github.com/ 你的用户名/公司估值.git
+git push -u origin main
